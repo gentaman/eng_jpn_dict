@@ -3,6 +3,7 @@ English-Japanese dictionary for clipboard
 
 # Usage
 1. dict.pyのパスをDICTに定義する
+1. seltrを実行可能する
 1. seltrをホットキーに登録する
 
 
