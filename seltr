@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-notify-send -u critical "$(xsel -o)" "$(python ./dict.py $(xsel -o))"
+notify-send -u critical "$(xsel -o)" "$(python $DICT $(xsel -o))"
